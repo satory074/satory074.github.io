@@ -5,6 +5,7 @@ User-agent: *
 Allow: /
 
 Sitemap: https://satory074.github.io/hyakuichi/sitemap.xml
+Sitemap: https://satory074.github.io/intai-fa/sitemap-index.xml
 Sitemap: https://satory074.github.io/m1-omoroi/sitemap.xml
 Sitemap: https://satory074.github.io/odekaketenki/sitemap.xml
 Sitemap: https://satory074.github.io/produce101japan-ranking/sitemap.xml
